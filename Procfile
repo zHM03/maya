@@ -1,1 +1,1 @@
-worker: python maya.py
+worker: python my.py
