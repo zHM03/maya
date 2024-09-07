@@ -345,5 +345,4 @@ async def complete_registration(user_id, member):
         if register_channel:
             await register_channel.delete()
 
-# Botu çalıştırma
-bot.run('MTI3MzY4NTY5NzM3MDI1OTY3MA.GzUQAs.pax1ZsSLYmUAvVLib8_gbblaIjri7kIoLc7PBc')
+
