@@ -309,5 +309,4 @@ async def clean_waitroom():
         if message.id not in pinned_ids:
             await message.delete()
 
-# Botu çalıştırma
-bot.run('MTI3MzY4NTY5NzM3MDI1OTY3MA.GzUQAs.pax1ZsSLYmUAvVLib8_gbblaIjri7kIoLc7PBc')
+
