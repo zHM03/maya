@@ -301,5 +301,3 @@ async def clear(ctx, amount: int):
     deleted = await ctx.channel.purge(limit=amount)
     await ctx.send(f'{len(deleted)} mesaj silindi.', delete_after=5)
 
-# Botu çalıştırma
-bot.run('MTI3MzY4NTY5NzM3MDI1OTY3MA.GzUQAs.pax1ZsSLYmUAvVLib8_gbblaIjri7kIoLc7PBc')
