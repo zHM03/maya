@@ -416,5 +416,3 @@ async def role(ctx, member: discord.Member, role: discord.Role):
     await member.add_roles(role)
     await ctx.send(f"{member.mention} buumm {role.mention} hallettim!")
 
-# Botu çalıştırma
-bot.run('MTI3MzY4NTY5NzM3MDI1OTY3MA.GzUQAs.pax1ZsSLYmUAvVLib8_gbblaIjri7kIoLc7PBc')
